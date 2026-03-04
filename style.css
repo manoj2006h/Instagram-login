@@ -78,5 +78,44 @@
     font-size: 0.9rem;
     padding-left: 10px;
     font-weight: 500;
-    
+}
+
+.first-2-btns button , .next-2-btns button {
+    width: 500px;
+    height: 45px;
+    border-radius: 25px;
+    font-size: 1rem;
+}
+
+.log-in button {
+    background-color: #0064E0;
+    color: white;
+    border: none;
+    margin-top: 10px;
+}
+
+.forgot-pass button {
+    background-color: white;
+    border: none;
+    margin-top: 10px;
+}
+
+.next-2-btns {
+    margin-top: 50px;
+}
+
+.log-in-fb button {
+    background-color: white;
+    border: 1.3px solid rgb(210, 210, 210);
+}
+
+.create-new-acc button {
+    margin-top: 10px;
+    background-color: white;
+    border: 1.3px solid #0064E0;
+    color: #0064E0;
+}
+
+.hover-color :hover {
+    background-color: rgb(231, 229, 229);
 }
